@@ -23,12 +23,12 @@
 ### 🔨 Skills and Tools
 
 <div align="center">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+   <!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-    </a>
+    </a> 
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40" />
-    </a>
+    </a> -->
     <a href="https://golang.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
     </a>
@@ -50,12 +50,12 @@
     <a href="https://redis.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" />
     </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <!--   <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40" />
     </a>
     <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="40" height="40" />
-    </a>
+    </a> -->
     <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="40" height="40" />
     </a>
@@ -77,7 +77,7 @@
 </div>
 
 <div align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+   <!--    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
@@ -85,7 +85,7 @@
     </a>
     <a href="https://jquery.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="vuejs" width="40" height="40" />
-    </a>
+    </a> -->
     <a href="hexo.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/>
     </a>
