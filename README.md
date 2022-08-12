@@ -12,7 +12,7 @@
     </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E5%85%A8%E6%9D%91%E7%9A%84%E5%B8%8C%E6%9C%9B%EF%BC%81%EF%BC%81%EF%BC%81)](https://git.io/typing-svg)#pic_center
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E5%85%A8%E6%9D%91%E7%9A%84%E5%B8%8C%E6%9C%9B%EF%BC%81%EF%BC%81%EF%BC%81)](https://git.io/typing-svg)
 
 ### 🏆 Profile Trophy
 
