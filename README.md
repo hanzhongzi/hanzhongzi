@@ -92,12 +92,12 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
     </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <!--     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" />
     </a>
     <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" />
-    </a>
+    </a> -->
     <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40" />
     </a>
