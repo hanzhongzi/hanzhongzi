@@ -21,8 +21,8 @@
 </p>
 
 ### 🔨 Skills and Tools
-
-<div align="center">
+<div  align="center">
+<div >
    <!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
     </a> 
@@ -108,10 +108,12 @@
 
 ### 📈 Github Statistics
 
-<div align="center">
+<div>
     <span>&emsp;&emsp;</span>
     <img height="175px" src="https://github-readme-stats.vercel.app/api?username=hanzhongzi&count_private=true&show_icons=true" />
     <!--<span>&emsp;&emsp;</span>-->
     <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzhongzi&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
+
+<div>
